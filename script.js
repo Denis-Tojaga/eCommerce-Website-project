@@ -1,4 +1,4 @@
-  /* var MenuItems = document.getElementById("MenuItems");
+  var MenuItems = document.getElementById("MenuItems");
 
     MenuItems.style.maxHeight = "0px";
    document.getElementById("menu-icon").onclick=()=>{
@@ -9,7 +9,7 @@
         }
     }
 
-*/
+
 
 
 
