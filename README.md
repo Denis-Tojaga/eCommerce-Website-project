@@ -21,3 +21,11 @@ User can select product to view details and add to cart.
 <br><br>
 ![](AppImages/slika4.png)
 <br><br>
+
+<br><br>
+![](AppImages/slika5.png)
+<br><br>
+
+<br><br>
+![](AppImages/slika6.png)
+<br><br>
