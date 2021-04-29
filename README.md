@@ -1,11 +1,11 @@
 # eCommerce-Website-project
 
 
-Ecommerce website that contains several pages, which describe
+### Ecommerce website that contains several pages, which describe
 
-- the work of eCommerce products
-- eCommerce offering 
-- more detailed look of products.
+#### - the work of eCommerce products
+#### - eCommerce offering 
+#### - more detailed look of products.
 
 User can select product to view details and add to cart.
 
